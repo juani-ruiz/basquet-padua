@@ -1,0 +1,101 @@
+.fondo {
+    background-color: #cdd1d1;
+    
+}
+
+.centrado {
+    font-family: "Russo One";
+    background-color: #ffffff;
+}
+
+.noticias {
+    width: 4rem;
+    height: 4rem; 
+    margin: auto;
+}
+
+.animacion {
+    background-image: linear-gradient(to left, black, yellow, #470aa8);
+}
+
+.nosotros {
+    word-spacing: 3px;
+    line-height: 20px;
+    font-size: 1rem;
+    font-family: "Russo One"
+}
+
+.bordes {
+    border-style: solid;
+    margin: 20px;
+    padding: 20px;
+}
+
+.hash {
+    word-spacing: 1px;
+    line-height: 10px;
+    font-size: 1rem;
+    font-family: "Russo One"
+}
+
+.bienvenido {
+    word-spacing: 3px;
+    line-height: 20px;
+    font-size: 2rem;
+    font-family: "Russo One"
+}
+
+.titulos {
+    word-spacing: 5px;
+    line-height: 40px;
+    font-size: 2rem;
+    font-family: "Russo One"
+}
+
+.derechos {
+    word-spacing: 1px;
+    line-height: 5px;
+    font-size: 0.8rem;
+    font-family: "Russo One"
+}
+
+#gridfotos {
+    display: grid;
+    grid-template-columns: 200px 200px;
+    grid-template-rows: 200px 200px;
+    margin: 20px;
+    padding: 20px;
+    grid-row-gap: 10px;
+    grid-column-gap: 90px;
+}
+
+.gridBorde img {
+    border: 1px solid black;
+    width: 15rem;
+}
+
+.texto {
+    font-size: 1rem;
+    font-family: "Russo One"
+}
+
+.profesores {
+    word-spacing: 5px;
+    line-height: 30px;
+    font-size: 2rem;
+    font-family: "Russo One"
+}
+
+.publicidad {
+    width: 350px;
+    height: 280px;
+    align-items: center
+}
+
+.tituloinicio {
+    
+    line-height: 20px;
+    font-size: 1.5rem;
+    font-family: "Russo One"; 
+  
+  }
